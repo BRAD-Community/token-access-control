@@ -51,7 +51,7 @@ class Window:
             chats="\n".join([f"• {hcode(chat.name)}" for chat in chats]),
             tokens="\n".join(
                 [
-                    f"• {GetgemsUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
+                    f"• NFT {GetgemsUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
                     if token.type == TokenDB.Type.NFTCollection else
                       f"• ${DeDustUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
                     for token in tokens
