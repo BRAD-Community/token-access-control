@@ -62,8 +62,8 @@ TEXT_MESSAGES = {
             "Я здесь, чтобы помочь тебе пройти верификацию и получить доступ в приватный клуб Брэда. "
             "Давай начнем 👌\n\n "
             "Клуб охраняется 🔒 и для доступа тебе необходимо хранить перечисленные токены: \n\n"
-            "<blockquote><b>Приватные чаты:</b>\n{chats}\n"
-            "<b>Необходимые токены:</b>\n{tokens}</blockquote>\n\n"
+            
+            "<b>Необходимые токены:</b>\n{tokens}\n\n"
 
             "<b>Подключен к:</b> {wallet}"
         ),
@@ -188,7 +188,7 @@ TEXT_MESSAGES = {
 
         "main_menu": (
             f"{hide_link('https://telegra.ph//file/6c433e5fdbdf439d63153.jpg')}"
-            "🤖 <b>Welcome!</b>\n\n"
+            "🤖👋 <b>Hi!</b>\n\n"
             "I'm your personal guide in the world of private chats. "
             "My main task is to provide you with access to our private chats, "
             "based on your possession of the corresponding tokens.\n\n"
