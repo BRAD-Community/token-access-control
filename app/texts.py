@@ -57,7 +57,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/2768da8b58e478171a555.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "🤖👋 <b>Приветствую</b>\n\n"
             "Я здесь, чтобы помочь тебе пройти верификацию и получить доступ в приватный клуб Брэда. "
             "Давай начнем 👌\n\n "
@@ -95,26 +95,26 @@ TEXT_MESSAGES = {
             "Отсканируй с помощью мобильного кошелька:"
         ),
         "connect_wallet_proof_wrong": (
-            f"{hide_link('https://telegra.ph//file/a4ddc111ff41692ad5200.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Предупреждение</b>\n\n"
             "Подпись поддельна или время ожидания подключения истекло"
         ),
         "connect_wallet_timeout": (
-            f"{hide_link('https://telegra.ph//file/a4ddc111ff41692ad5200.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Предупреждение</b>\n\n"
             "Время ожидания подключения истекло."
         ),
 
         "admin_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Панель администратора</b>\n\nВыберите действие:"
         ),
         "chats_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Меню приватных чатов</b>\n\nВыберите действие:"
         ),
         "chat_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Информация о приватном чате</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{chat_id}</blockquote>\n"
@@ -128,11 +128,11 @@ TEXT_MESSAGES = {
             "<blockquote>{chat_created_at}</blockquote>"
         ),
         "tokens_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "<b>Меню токенов</b>\n\nВыберите действие:"
         ),
         "token_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Информация о токене</b>\n\n"
             "• <b>Тип:</b>\n"
             "<blockquote>{token_type}</blockquote>\n"
@@ -158,11 +158,11 @@ TEXT_MESSAGES = {
         "token_edit_amount": "<b>Введите новую сумму токена</b> для доступа к приватному чату:",
         "token_send_amount_error": "Неверная сумма токена!",
         "admins_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "<b>Меню администраторов</b>\n\nВыберите действие:"
         ),
         "admin_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Информация об администраторе</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{admin_id}</blockquote>\n"
@@ -187,7 +187,7 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/2768da8b58e478171a555.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "🤖👋 <b>Hi!</b>\n\n"
             "I'm here to help you get verified and gain access to Brad's private club. "
             "Let's get started 👌\n\n "
@@ -226,26 +226,26 @@ TEXT_MESSAGES = {
             "Scan with your mobile app wallet:"
         ),
         "connect_wallet_proof_wrong": (
-            f"{hide_link('https://telegra.ph//file/a4ddc111ff41692ad5200.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Warning</b>\n\n"
             "The wallet signature is wrong or the connection timeout has expired."
         ),
         "connect_wallet_timeout": (
-            f"{hide_link('https://telegra.ph//file/a4ddc111ff41692ad5200.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Warning</b>\n\n"
             "The connection timeout has expired."
         ),
 
         "admin_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Administrator Panel</b>\n\nSelect action:"
         ),
         "chats_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/34ad1113ee1b5683a9934.jpg')}"
             "<b>Private Chats Menu</b>\n\nSelect action:"
         ),
         "chat_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Private Chat Information</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{chat_id}</blockquote>\n"
@@ -259,11 +259,11 @@ TEXT_MESSAGES = {
             "<blockquote>{chat_created_at}</blockquote>"
         ),
         "tokens_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "<b>Tokens Menu</b>\n\nSelect action:"
         ),
         "token_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Token Information</b>\n\n"
             "• <b>Type:</b>\n"
             "<blockquote>{token_type}</blockquote>\n"
@@ -291,11 +291,11 @@ TEXT_MESSAGES = {
         "token_edit_amount": "<b>Enter the new token amount</b> to access the private chat:",
         "token_send_amount_error": "Invalid token amount!",
         "admins_menu": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "<b>Administrators Menu</b>\n\nSelect action:"
         ),
         "admin_info": (
-            f"{hide_link('https://telegra.ph//file/aaba319da09f60e6def03.jpg')}"
+            f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "• <b>Administrator Information</b>\n\n"
             "• <b>ID:</b>\n"
             "<blockquote>{admin_id}</blockquote>\n"
