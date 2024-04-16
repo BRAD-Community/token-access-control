@@ -207,17 +207,17 @@ TEXT_MESSAGES = {
             "<b>Choose a language:</b>"
         ),
         "deny_access": (
-            f"{hide_link('https://telegra.ph//file/ceec89ba75c903210411c.jpg')}"
+            f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
             "🚫 <b>Access Denied</b>\n\n"
-            "Unfortunately, I did not detect the required tokens in your wallet.\n\n"
-            "Don't worry, you can <b>purchase tokens by clicking the buttons</b> below and try again."
+            "Unfortunately, I did not detect the required tokens in your wallet 😭.\n\n"
+            "Don't be sad, you can <b>purchase the necessary tokens.<b> Click on the buttons below and try again."
         ),
         "allow_access": (
-            f"{hide_link('https://telegra.ph//file/6b03c59182d959cddeb02.jpg')}"
-            "🎉 <b>Congratulations!</b>\n\n"
-            "You have access to our private chats.\n\n"
-            "<b>Click on the buttons</b> below and submit an application to join, "
-            "I will approve them immediately!"
+            f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
+            " <b>I knew 💪</b>\n\n"
+            "You are the best 🫵 and the doors are open for you\n\n"
+            "<b>Click on the button below </b> and enter the BRAD PRIVATE CLUB 😎"
+            
         ),
 
         "connect_wallet": (
