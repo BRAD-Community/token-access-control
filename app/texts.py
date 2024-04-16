@@ -187,14 +187,14 @@ TEXT_MESSAGES = {
         "outdated_text": "...",
 
         "main_menu": (
-            f"{hide_link('https://telegra.ph//file/6c433e5fdbdf439d63153.jpg')}"
+            f"{hide_link('https://telegra.ph//file/2768da8b58e478171a555.jpg')}"
             "🤖👋 <b>Hi!</b>\n\n"
-            "I'm your personal guide in the world of private chats. "
-            "My main task is to provide you with access to our private chats, "
-            "based on your possession of the corresponding tokens.\n\n"
-            "<blockquote><b>Private Chats:</b>\n{chats}\n"
-            "<b>Required Tokens:</b>\n{tokens}</blockquote>\n\n"
-            "Click on <b>Check access availability</b> to find out if you'll be admitted!\n\n"
+            "I'm here to help you get verified and gain access to Brad's private club. "
+            "Let's get started 👌\n\n "
+            "The club is guarded by 🔒 and you need to keep the listed tokens for access.\n\n"
+            
+            "<b>Required Tokens:</b>\n{tokens} \n\n"
+            
             "<b>Connected to:</b> {wallet}"
         ),
         "select_language": (
