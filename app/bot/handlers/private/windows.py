@@ -53,7 +53,7 @@ class Window:
                 [
                     f"• {GetgemsUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
                     if token.type == TokenDB.Type.NFTCollection else
-                    f"• {DeDustUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
+                      f"• ${DeDustUrl(token.address, token.name).hlink_name} - {hcode(token.min_amount_str)}"
                     for token in tokens
                 ]
             )
