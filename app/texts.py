@@ -60,7 +60,7 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "🤖👋 <b>Приветствую</b>\n\n"
             "Я здесь, чтобы помочь тебе пройти верификацию и получить доступ в приватный клуб Брэда. "
-            "Давай начнем 👌\n\n "
+            "Давай начнем 👌\n\n"
             "Клуб охраняется 🔒 и для доступа тебе необходимо хранить перечисленные токены. \n\n"
             
             "<b>Необходимые токены:</b>\n{tokens}\n\n"
@@ -190,7 +190,7 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/fee8daf9a48db3d48f7b0.jpg')}"
             "🤖👋 <b>Hi!</b>\n\n"
             "I'm here to help you get verified and gain access to Brad's private club. "
-            "Let's get started 👌\n\n "
+            "Let's get started 👌\n\n"
             "The club is guarded by 🔒 and you need to keep the listed tokens for access.\n\n"
             
             "<b>Required Tokens:</b>\n{tokens} \n\n"
