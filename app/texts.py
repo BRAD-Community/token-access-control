@@ -80,7 +80,7 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
             "🚫 <b>Вход запрещен</b>\n\n"
             "К сожалению, не обнаружены необходимые токены в твоем кошельке 😭.\n\n"
-            "Не грусти, ты можешь <b>приобрести необходимые токены.<b> Перейди по кнопкам ниже и повтори попытку."
+            "Не грусти, ты можешь <b>приобрести необходимые токены.</b> Перейди по кнопкам ниже и повтори попытку."
         ),
         "allow_access": (
             f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
@@ -210,7 +210,7 @@ TEXT_MESSAGES = {
             f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
             "🚫 <b>Access Denied</b>\n\n"
             "Unfortunately, I did not detect the required tokens in your wallet 😭.\n\n"
-            "Don't be sad, you can <b>purchase the necessary tokens.<b> Click on the buttons below and try again."
+            "Don't be sad, you can <b>purchase the necessary tokens.</b> Click on the buttons below and try again."
         ),
         "allow_access": (
             f"{hide_link('https://telegra.ph//file/67c8d5f25c97ade6877eb.jpg')}"
