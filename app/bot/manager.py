@@ -192,6 +192,7 @@ class Manager:
                 "user_db": user_db,
                 "sessionmaker": sessionmaker,
                 "state": dispatcher.fsm.resolve_context(bot, user_id, user_id),
+                "language_code": user_db.language_code,
                 "text_message": TextMessage(user_db.language_code),
                 "text_button": TextButton(user_db.language_code),
             }
